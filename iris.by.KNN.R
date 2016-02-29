@@ -1,4 +1,4 @@
-#iris by KNN-HW04-Xiangming
+#iris classifier by KNN
 
 data(iris)
 attach(iris)
